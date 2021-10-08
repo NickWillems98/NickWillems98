@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @NickWillems98
+- 👀 I’m interested in learning Python and ethical hacking!
